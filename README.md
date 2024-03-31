@@ -1,5 +1,7 @@
 estudante de programação
+
 python & javascript(iniciante)
+
 14 anos
 <!---
 guguskatistareidelas/guguskatistareidelas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
